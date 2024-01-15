@@ -17,3 +17,6 @@ BiLSTM-CNN、BiLSTM-CNN-CA、BiLSTM-CNN-SE 和 BiLSTM-CNN-CBAM预测结果比较
   <p align="center">
  <img width="75%" src="./result3.png" />
 </p>
+
+## Note
+在此声明，本项目为作者2023年浙江大学软件学院金融夏令营暑期项目，代码及其图片均不存在抄袭
